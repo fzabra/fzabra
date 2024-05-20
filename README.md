@@ -22,8 +22,4 @@ Meus projetos utilizam as seguintes tecnologias:
 - **React**: Biblioteca JavaScript para construir interfaces de usuário.
 - **Next.js**: Framework React com funcionalidades de renderização do lado do servidor e geração estática.
 
-## Como Rodar o Projeto
 
-1. Clone este repositório:
-   ```sh
-   git clone https://github.com/seu-usuario/seu-projeto.git
