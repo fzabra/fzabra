@@ -8,7 +8,7 @@ Este projeto utiliza as seguintes tecnologias:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Magento.svg" alt="Magento" width="50" height="50"/>
+  <img src="https://www.noblestrategy.pt/wp-content/uploads/Magento_Logo.png" alt="Magento" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50"/>
 </p>
 
