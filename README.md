@@ -1,15 +1,13 @@
-# Bem-vindo ao Meu Projeto
+# Bem-vindo ao Meu GitHub
 
-Este projeto utiliza as seguintes tecnologias:
+Meus projetos utilizam as seguintes tecnologias:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-  <img src="https://www.noblestrategy.pt/wp-content/uploads/Magento_Logo.png" alt="Magento" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="50" height="50"/>
 </p>
 
 ## Tecnologias Utilizadas
@@ -19,8 +17,7 @@ Este projeto utiliza as seguintes tecnologias:
 - **JavaScript**: Linguagem de programação que permite a implementação de elementos complexos em páginas web.
 - **TypeScript**: Superset do JavaScript que adiciona tipagem estática opcional.
 - **React**: Biblioteca JavaScript para construir interfaces de usuário.
-- **Magento**: Plataforma de comércio eletrônico open-source.
-- **SQL**: Linguagem de consulta estruturada para gerenciar e manipular bancos de dados relacionais.
+- **Next.js**: Framework React com funcionalidades de renderização do lado do servidor e geração estática.
 
 ## Como Rodar o Projeto
 
